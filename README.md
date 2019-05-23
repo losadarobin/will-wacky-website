@@ -9,4 +9,4 @@ I've forked Will's repo and made the following adjustments:
 I've also put it [online](www.google.nl)
 
 This was my added profile picture:
-![bunnies](/assets/img/bunnies.jpg)
+![bunnies](/img/bunnies.jpg)
